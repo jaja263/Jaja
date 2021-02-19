@@ -1,2 +1,2 @@
 # Jaja
-Hi my name is ejaz and recently I am learning python 
+Hi my name is EjazAhmad and recently I am learning python 
